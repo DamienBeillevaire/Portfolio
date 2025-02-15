@@ -10,13 +10,13 @@
 
     switch ($route) {
         case "dashboard";
-            include("../control/dashboardControl.php");
+            include("../control/MainControl.php");
+            break;
+        case "dashboardAn";
+            include("../control/MainControlAnglais.php");
             break;
         case "room";
             include("../control/roomControl.php");
-            break;
-        case "booking";
-            include("../control/bookingControl.php");
             break;
         case "settings";
             include("../control/settingsControl.php");
