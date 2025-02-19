@@ -3,7 +3,7 @@
     background-color: #6883bc;
 }
 .navbar {
-    position: absolute;
+    position: fixed;
     display: flex;
     flex-direction: column;
     top: 0px;
@@ -38,8 +38,25 @@ ul {
     color: white;
 }
 /* END NAVBAR */
-.justify-content-center {
-    height: 100vh;
+
+
+.main {
+    margin-left: 250px;
+    padding: 0px 50px 0px 50px;
+}
+
+.main-align {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.justify-content-center-padd {
+    padding-top: 50vh;
+}
+
+.justify-content-center-marg {
+    margin-top: 50vh;
 }
 
 .h1Txt {
@@ -52,4 +69,53 @@ ul {
 .h3Txt {
     font-size: 2vw;
     letter-spacing: 0.2em;
+}
+
+   /* CSS */
+.button-24 {
+   background: #8a307f;
+   border: 1px solid #8a307f;
+   border-radius: 6px;
+   box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+   box-sizing: border-box;
+   color: #FFFFFF;
+   cursor: pointer;
+   display: inline-block;
+   font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+   font-size: 16px;
+   font-weight: 800;
+   line-height: 16px;
+   min-height: 40px;
+   outline: 0;
+   padding: 12px 14px;
+   text-align: center;
+   text-rendering: geometricprecision;
+   text-transform: none;
+   user-select: none;
+   -webkit-user-select: none;
+   touch-action: manipulation;
+   vertical-align: middle;
+    margin-bottom: 50px;
+}
+
+.button-24:hover,
+.button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #8a307f;
+}
+
+.button-24:active {
+    opacity: .5;
+}
+
+
+.competence {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 30px 30px 20px 0px;
 }
