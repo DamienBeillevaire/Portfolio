@@ -72,41 +72,46 @@ ul {
 }
 
    /* CSS */
-.button-24 {
-   background: #8a307f;
-   border: 1px solid #8a307f;
-   border-radius: 6px;
-   box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
-   box-sizing: border-box;
+
+.button-52 {
+   font-size: 20px;
+   font-weight: 200;
    color: #FFFFFF;
-   cursor: pointer;
-   display: inline-block;
-   font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
-   font-size: 16px;
-   font-weight: 800;
-   line-height: 16px;
-   min-height: 40px;
+   letter-spacing: 1px;
+   padding: 13px 20px 13px;
    outline: 0;
-   padding: 12px 14px;
-   text-align: center;
-   text-rendering: geometricprecision;
-   text-transform: none;
+   border: 1px solid black;
+   cursor: pointer;
+   position: relative;
+   background-color: rgba(0, 0, 0, 0);
    user-select: none;
    -webkit-user-select: none;
    touch-action: manipulation;
-   vertical-align: middle;
-    margin-bottom: 50px;
+   margin-bottom: 50px;
+    margin-right: 20px;
 }
 
-.button-24:hover,
-.button-24:active {
-    background-color: initial;
-    background-position: 0 0;
-    color: #8a307f;
+.button-52:after {
+    content: "";
+    background-color: #8a307f;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    height: 100%;
+    top: 7px;
+    left: 7px;
+    transition: 0.2s;
 }
 
-.button-24:active {
-    opacity: .5;
+.button-52:hover:after {
+    top: 0px;
+    left: 0px;
+}
+
+@media (min-width: 768px) {
+    .button-52 {
+        padding: 13px 50px 13px;
+    }
 }
 
 
@@ -118,4 +123,14 @@ ul {
 
 .card {
     margin: 30px 30px 20px 0px;
+}
+
+.flex-card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.section-title {
+    padding-top: 50px;
 }

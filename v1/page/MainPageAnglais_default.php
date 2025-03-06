@@ -36,26 +36,27 @@
             <div class="container">
                 <!-- ======= START ABOUT ======= -->
                 <div class="section-title">
-                    <h2>A Propos 🗨️</h2>
+                    <h1>About me 🗨️</h1>
                 </div>
                 <div>
-                        <br><h3>Présentation</h3>
+                        <br><h3>Presentation</h3>
                         <br>
                         <p>
-                            Salut, moi c'est Damien Beillevaire
-                        Je suis actuellement étudiant au lycée la Colinière de Nantes en première année de BTS SIO (Services Informatiques aux Organisations) dans l'option SLAM (Solutions Logicielles et Application Métier) qui en gros est une option spécialisée pour le développement
+                            Hello, I am Damien Beillevaire
+                            I'm currently a student at the school la Colinière in Nantes, in the first year of a BTS SIO (Computer Services for Organizations) in the SLAM option (Software Solutions and Business Applications), which is basically a specialized option for development.
                         <p></p>
                         <br>
                         <p>
-                            Actuellement toujours en cours d'étude 🎓, je vous propose sur ce portfolio de retrouver ci-dessous les différentes études, et projet professionnel que j'ai pu entreprendre au sein de ma carrière.
+                            I'm currently still studying 🎓, and on this portfolio you'll find the various studies and professional projects I've undertaken in the course of my career.
                         </p>
 
                         <p>
-                            Vous retrouverez ci-dessous mon CV ainsi que mes différents projets  👩‍💻
+                            Below you will find my CV and my various projects.  👩‍💻
                         </p>
                         <br>
 
-                    <a class="padding-m" href="ressources/CV.pdf" target="_blank" download="CV Damien Beillevaire"><button class="button-24" role="button">CV</button></a>
+                    <a class="padding-m" href="../../v1/page/ressources/CV.pdf" target="_blank" download="CV Damien Beillevaire"><button class="button-52" role="button">CV</button></a>
+                    <a href="https://www.linkedin.com/in/damien-beillevaire-77983a345" target="_blank"><button class="button-52" role="button">Linkedin</button></a>
 
                 </div>
                 <!-- ======= END ABOUT ======= -->
@@ -65,31 +66,31 @@
                 </div>
                 <div class="competence">
                     <div class="card" style="width: 8rem;">
-                        <img src="ressources/img/CompDev/html.png" class="card-img-top" alt="HTML">
+                        <img src="../../v1/page/ressources/img/CompDev/HTML-5-Badge-Logo.png" class="card-img-top" alt="HTML">
                         <div class="card-body">
                             <p class="card-text">HTML</p>
                         </div>
                     </div>
                     <div class="card" style="width: 8rem;">
-                        <img src="ressources/img/CompDev/css.png" class="card-img-top" alt="CSS">
+                        <img src="../../v1/page/ressources/img/CompDev/css.png" class="card-img-top" alt="CSS">
                         <div class="card-body">
                             <p class="card-text">CSS</p>
                         </div>
                     </div>
                     <div class="card" style="width: 8rem;">
-                        <img src="ressources/img/CompDev/javascript.png" class="card-img-top" alt="JavaScript">
+                        <img src="../../v1/page/ressources/img/CompDev/js.png" class="card-img-top" alt="JavaScript">
                         <div class="card-body">
                             <p class="card-text">JavaScript</p>
                         </div>
                     </div>
                     <div class="card" style="width: 8rem;">
-                        <img src="ressources/img/CompDev/php.png" class="card-img-top" alt="PHP">
+                        <img src="../../v1/page/ressources/img/CompDev/php-logo.png" class="card-img-top" alt="PHP">
                         <div class="card-body">
                             <p class="card-text">PHP</p>
                         </div>
                     </div>
                     <div class="card" style="width: 8rem;">
-                        <img src="ressources/img/CompDev/SQL.png" class="card-img-top" alt="SQL">
+                        <img src="../../v1/page/ressources/img/CompDev/sql.png" class="card-img-top" alt="SQL">
                         <div class="card-body">
                             <p class="card-text">SQL</p>
                         </div>
@@ -102,36 +103,96 @@
                 </div>
                 <div class="competence">
                     <div class="card" style="width: 8rem;">
-                        <img src="ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
+                        <img src="../../v1/page/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
                         <div class="card-body">
                             <p class="card-text">PHP Storm</p>
                         </div>
                     </div>
                     <div class="card" style="width: 8rem;">
-                        <img src="ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
+                        <img src="../../v1/page/ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
                         <div class="card-body">
                             <p class="card-text">Visual Studio Code</p>
                         </div>
                     </div>
                     <div class="card" style="width: 8rem;">
-                        <img src="ressources/img/CompLogi/blender.jpg" class="card-img-top" alt="Blender">
+                        <img src="../../v1/page/ressources/img/CompLogi/blender.jpg" class="card-img-top" alt="Blender">
                         <div class="card-body">
                             <p class="card-text">Blender</p>
                         </div>
                     </div>
                 </div>
                 <!-- ======= END TOOLS / SOFT ======= -->
-                <!-- ======= END PRO ======= -->
+                <!-- ======= START PRO ======= -->
                 <section id="pro">
                     <div class="section-title">
-                        <h2>Professional career</h2>
+                        <h1>Professional career</h1>
                     </div>
-                    <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <div class="flex-card">
+                        <div class="card " style="width: 100%;">
+                            <div class="card-body">
+                                <h5 class="card-title">Leclerc</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-primary">Internship report</a>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 100%;">
+                            <div class="card-body">
+                                <h5 class="card-title">OrdiPlus</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-primary">Internship report</a>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 100%;">
+                            <div class="card-body">
+                                <h5 class="card-title">Expendium / Viavi</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-primary">Internship report</a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- ======= END PRO ======= -->
+                <!-- ======= START SCO ======= -->
+                <section id="sco">
+                    <div class="section-title">
+                        <h1>Educational path</h1>
+                    </div>
+                    <div class="flex-card">
+                        <div class="card " style="width: 100%;">
+                            <div class="card-body">
+                                <h5 class="card-title">BTS SIO La Colinière</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="https://coliniere.paysdelaloire.e-lyco.fr" class="btn btn-primary">School website</a>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 100%;">
+                            <div class="card-body">
+                                <h5 class="card-title">Bac SN François Arago</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="https://arago.paysdelaloire.e-lyco.fr" class="btn btn-primary">School website</a>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 100%;">
+                            <div class="card-body">
+                                <h5 class="card-title">Brevet Condorcet</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="https://condorcet.loire-atlantique.e-lyco.fr" class="btn btn-primary">School website</a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section id="projets">
+                    <div class="section-title">
+                        <h1>Projects</h1>
+                    </div>
+                    <div class="flex-card">
+                        <div class="card " style="width: 30%;">
+                            <div class="card-body">
+                                <img src="../../v1/page/ressources/img/Projets/ptfo.png" class="card-img-top" alt="PortFolio">
+                                <h5 class="card-title">Analysis and portfolio design</h5>
+                                <p class="card-text">Analysis and portfolio design</p>
+                                <a class="btn btn-primary" href="../../v1/page/ressources/analyse-portefolio-Damien-Beillevaire.pdf" target="_blank" download="Analyse et maquette Damien Beillevaire">Download</a>
+                            </div>
                         </div>
                     </div>
                 </section>

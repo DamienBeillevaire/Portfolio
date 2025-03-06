@@ -18,9 +18,6 @@
         case "room";
             include("../control/roomControl.php");
             break;
-        case "cv";
-            include("../page/ressources/CV.pdf");
-            break;
         case "settings";
             include("../control/settingsControl.php");
             break;
