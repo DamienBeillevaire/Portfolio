@@ -15,7 +15,7 @@ echo "<!DOCTYPE html>
             include('../config/env.php');
             include("../page/template/navBar.php");
 
-            $route = "";
+            $route = "home";
 
             if (isset($_GET['route'])) {
                 $route = $_GET['route'];
