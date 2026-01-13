@@ -2,7 +2,7 @@
 echo "<!DOCTYPE html>
     <html>
     <head>
-        <title>PortFolio-</title>
+        <title>PortFolio</title>
         <meta charset='UTF-8'>
         <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>
         <meta >
@@ -24,12 +24,14 @@ echo "<!DOCTYPE html>
             switch ($route) {
                 case "settings";
                     include("../control/settingsControl.php");
+                    $tabTitle = "Settings";
                     break;
                 case "authenticate";
                     include("../control/authenticateControl.php");
                     break;
                 case "home";
                     include("../control/HomeControl.php");
+                    $tabTitle = "Home";
                     break;
                 case "about";
                     include("../control/aboutControl.php");
@@ -50,7 +52,10 @@ echo "<!DOCTYPE html>
                     include("../control/contactControl.php");
                     break;
                 case "stageUnivers";
-                    include("../control/UniversControl.php");
+                    include("../control/Stage/UniversControl.php");
+                    break;
+                case "stageAcoss";
+                    include("../control/Stage/AcossControl.php");
                     break;
                 default;
                     echo "<p>La route spécifié n'existe pas!</p>";

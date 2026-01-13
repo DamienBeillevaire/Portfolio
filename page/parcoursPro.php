@@ -6,6 +6,15 @@
         <div class="flex-card">
             <div class="card " style="width: 100%;">
                 <div class="card-body">
+                    <h5 class="card-title">Acoss (URSSAF)</h5>
+                    <small>2 Rue de Coulongé, 44000 Nantes</small><br>
+                    <small>12 janvier 2025 - 13 février 2025</small>
+                    <p class="card-text">Mon deuxième stage de BTS SIO en développement web</p>
+                    <a href="?route=stageAcoss" class="btn btn-primary">En savoir plus</a>
+                </div>
+            </div>
+            <div class="card " style="width: 100%;">
+                <div class="card-body">
                     <h5 class="card-title">Univers</h5>
                     <small>Univers SAS 16 rue Bretagne, 44240 La Chapelle-sur-Erdre.</small><br>
                     <small>12 mai 2025 - 27 juin 2025</small>

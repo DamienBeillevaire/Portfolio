@@ -18,7 +18,7 @@
         </ul>
     </div>
     <div class="copyright">
-        <p>Copyright 2025 ©</p>
+        <p>Copyright 2026 ©</p>
         <p>Damien Beillevaire</p>
     </div>
 </nav>
