@@ -52,6 +52,30 @@
                 <p class="card-text">SQL</p>
             </div>
         </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompDev/sql.png" class="card-img-top" alt="SQL">
+            <div class="card-body">
+                <p class="card-text">TypeScript</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompDev/sql.png" class="card-img-top" alt="SQL">
+            <div class="card-body">
+                <p class="card-text">Java</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompDev/sql.png" class="card-img-top" alt="SQL">
+            <div class="card-body">
+                <p class="card-text">Tailwind</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompDev/sql.png" class="card-img-top" alt="SQL">
+            <div class="card-body">
+                <p class="card-text">Angular</p>
+            </div>
+        </div>
     </div>
     <!-- ======= END DEV SKILLS ======= -->
     <!-- ======= START TOOLS / SOFT ======= -->
@@ -79,4 +103,23 @@
         </div>
     </div>
     <!-- ======= END TOOLS / SOFT ======= -->
+    <!-- ======= START FrameWorks ======= -->
+    <div class="section-title">
+        <h3>FrameWorks</h3>
+    </div>
+    <div class="flex-card">
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
+            <div class="card-body">
+                <p class="card-text">Symphony</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
+            <div class="card-body">
+                <p class="card-text">React</p>
+            </div>
+        </div>
+    </div>
+    <!-- ======= END FrameWorks ======= -->
 </div>
