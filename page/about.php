@@ -53,13 +53,13 @@
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompDev/sql.png" class="card-img-top" alt="SQL">
+            <img src="#" class="card-img-top" alt="SQL">
             <div class="card-body">
                 <p class="card-text">TypeScript</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompDev/sql.png" class="card-img-top" alt="SQL">
+            <img src="#" class="card-img-top" alt="SQL">
             <div class="card-body">
                 <p class="card-text">Java</p>
             </div>
@@ -83,6 +83,60 @@
         <h3>Logiciels / Outils</h3>
     </div>
     <div class="flex-card">
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
+            <div class="card-body">
+                <p class="card-text">PHP Storm</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
+            <div class="card-body">
+                <p class="card-text">Visual Studio Code</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompLogi/blender.jpg" class="card-img-top" alt="Blender">
+            <div class="card-body">
+                <p class="card-text">Blender</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
+            <div class="card-body">
+                <p class="card-text">PHP Storm</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
+            <div class="card-body">
+                <p class="card-text">Visual Studio Code</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompLogi/blender.jpg" class="card-img-top" alt="Blender">
+            <div class="card-body">
+                <p class="card-text">Blender</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
+            <div class="card-body">
+                <p class="card-text">PHP Storm</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
+            <div class="card-body">
+                <p class="card-text">Visual Studio Code</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="../page/ressources/img/CompLogi/blender.jpg" class="card-img-top" alt="Blender">
+            <div class="card-body">
+                <p class="card-text">Blender</p>
+            </div>
+        </div>
         <div class="card" style="width: 8rem;">
             <img src="../page/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
             <div class="card-body">

@@ -90,9 +90,9 @@
                     Mercredi 21 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Reflexion sur la mission principale du stage</li>
+                    <li class="list-group-item">- Création d'un script sql</li>
+                    <li class="list-group-item">- Création de l'entité et du controller</li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -100,9 +100,9 @@
                     Jeudi 22 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Développement de la méthode GET</li>
+                    <li class="list-group-item">- Développement de la méthode POST</li>
+                    <li class="list-group-item">- Correction de code</li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -110,9 +110,8 @@
                     Vendredi 23 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Développement de la méthode POST</li>
+                    <li class="list-group-item">- Développement de la méthode PUT</li>
                 </ul>
             </div>
         </div>
