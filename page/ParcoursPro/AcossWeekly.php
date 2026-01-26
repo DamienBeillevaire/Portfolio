@@ -100,7 +100,7 @@
                     Jeudi 22 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- Développement de la méthode GET</li>
+                    <li class="list-group-item">- Développement de la méthode GET_ALL</li>
                     <li class="list-group-item">- Développement de la méthode POST</li>
                     <li class="list-group-item">- Correction de code</li>
                 </ul>
@@ -124,9 +124,11 @@
                     Lundi 26 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Développement de la méthode PUT</li>
+                    <li class="list-group-item">- Développement de la méthode GET_ID</li>
+                    <li class="list-group-item">- Développement de la méthode DELETE</li>
+                    <li class="list-group-item">- Mise en place d'un controle d'existance</li>
+                    <li class="list-group-item">- Test de toute les routes</li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
