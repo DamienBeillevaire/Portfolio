@@ -136,9 +136,8 @@
                     Mardi 27 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Etude de la structure front-end</li>
+                    <li class="list-group-item">- Mise en place de l'interface</li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -146,9 +145,10 @@
                     Mercredi 28 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Mise en place de l'interface</li>
+                    <li class="list-group-item">- Ajout de toute les méthodes d'implémentation</li>
+                    <li class="list-group-item">- Mise a jour des tests de l'application</li>
+                    <li class="list-group-item">- Documentation de la nouvelle features</li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -156,9 +156,8 @@
                     Jeudi 29 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Correction de code </li>
+                    <li class="list-group-item">- Déploiement des modifications sur la dev</li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
