@@ -23,7 +23,7 @@
     </div>
     <div class="flex-card">
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompDev/HTML-5-Badge-Logo.png" class="card-img-top" alt="HTML">
+            <img src="https://damien-beillevaire.tech/page/ressources/img/CompDev/HTML-5-Badge-Logo.png" class="card-img-top" alt="HTML">
             <div class="card-body">
                 <p class="card-text">HTML</p>
             </div>
@@ -65,13 +65,13 @@
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompDev/sql.png" class="card-img-top" alt="SQL">
+            <img src="#" class="card-img-top" alt="SQL">
             <div class="card-body">
                 <p class="card-text">Tailwind</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompDev/sql.png" class="card-img-top" alt="SQL">
+            <img src="#" class="card-img-top" alt="SQL">
             <div class="card-body">
                 <p class="card-text">Angular</p>
             </div>
@@ -102,57 +102,51 @@
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
+            <img src="#" class="card-img-top" alt="DBeaver">
             <div class="card-body">
-                <p class="card-text">PHP Storm</p>
+                <p class="card-text">DBeaver</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
+            <img src="#" class="card-img-top" alt="Fork">
             <div class="card-body">
-                <p class="card-text">Visual Studio Code</p>
+                <p class="card-text">Fork</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/blender.jpg" class="card-img-top" alt="Blender">
+            <img src="#" class="card-img-top" alt="Insomnia">
             <div class="card-body">
-                <p class="card-text">Blender</p>
+                <p class="card-text">Insomnia</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
+            <img src="#" class="card-img-top" alt="Composer">
             <div class="card-body">
-                <p class="card-text">PHP Storm</p>
+                <p class="card-text">Composer</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
+            <img src="#" class="card-img-top" alt="GitHub">
             <div class="card-body">
-                <p class="card-text">Visual Studio Code</p>
+                <p class="card-text">GitHub</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/blender.jpg" class="card-img-top" alt="Blender">
+            <img src="#" class="card-img-top" alt="GitLab">
             <div class="card-body">
-                <p class="card-text">Blender</p>
+                <p class="card-text">GitLab</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
+            <img src="#" class="card-img-top" alt="Git">
             <div class="card-body">
-                <p class="card-text">PHP Storm</p>
+                <p class="card-text">Git</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
+            <img src="#" class="card-img-top" alt="Canva">
             <div class="card-body">
-                <p class="card-text">Visual Studio Code</p>
-            </div>
-        </div>
-        <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/blender.jpg" class="card-img-top" alt="Blender">
-            <div class="card-body">
-                <p class="card-text">Blender</p>
+                <p class="card-text">Canva</p>
             </div>
         </div>
     </div>
