@@ -24,21 +24,21 @@
             <h4>Logiciels de l'entreprise</h4>
             <div class="flex-card">
                 <div class="card" style="width: 15rem;">
-                    <img src="../../page/ressources/img/Univers/LogoDIPO.png" class="card-img-top" alt="...">
+                    <img src="../../www/ressources/img/Univers/LogoDIPO.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">DIP-O</h5>
                         <p class="card-text">Logiciel qui permet l'onboarding des centrales des clients de façon optimisée.</p>
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../page/ressources/img/Univers/QantumLogo.png" class="card-img-top" alt="...">
+                    <img src="../../www/ressources/img/Univers/QantumLogo.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Qantum</h5>
                         <p class="card-text">Ancien logiciel de gestion analytique des données. Il est moins avancé que Bazefield et s’occupe de clients avec des petits sites.</p>
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../page/ressources/img/Univers/BazefieldLogo.jpg" class="card-img-top" alt="...">
+                    <img src="../../www/ressources/img/Univers/BazefieldLogo.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Bazefield</h5>
                         <p class="card-text">Logiciel de gestion analytique des données à destination des clients. Ce logiciel appartient au groupe norvégien d'Univers</p>
@@ -57,28 +57,28 @@
             <h4>Logiciels et applications</h4>
             <div class="flex-card">
                 <div class="card" style="width: 15rem;">
-                    <img src="../../page/ressources/img/Univers/GitLab.jpg" class="card-img-top" alt="...">
+                    <img src="../../www/ressources/img/Univers/GitLab.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">GitLab</h5>
                         <p class="card-text">GitLab est un logiciel libre de forge basé sur git proposant les fonctionnalités de wiki, un système de suivi des bugs, l’intégration continue et la livraison continue (gestion de projet et centralisation)</p>
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../page/ressources/img/Univers/Bitwarden.png" class="card-img-top" alt="...">
+                    <img src="../../www/ressources/img/Univers/Bitwarden.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Bitwarden</h5>
                         <p class="card-text">Bitwarden est un gestionnaire de mots de passe freemium et partiellement sous licence libre AGPL, qui permet de générer et de conserver des mots de passe de manière sécurisée </p>
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../page/ressources/img/Univers/openVPN.png" class="card-img-top" alt="...">
+                    <img src="../../www/ressources/img/Univers/openVPN.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">openVPN</h5>
                         <p class="card-text">C’est un logiciel libre et open source permettant de créer un réseau privé virtuel (accéder au réseau de l’entreprise depuis l’extérieur)</p>
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../page/ressources/img/Univers/teams.jpg" class="card-img-top" alt="...">
+                    <img src="../../www/ressources/img/Univers/teams.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Teams</h5>
                         <h6>Suite Microsoft</h6>
@@ -86,7 +86,7 @@
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../page/ressources/img/Univers/outlook.png" class="card-img-top" alt="...">
+                    <img src="../../www/ressources/img/Univers/outlook.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Outlook</h5>
                         <h6>Suite Microsoft</h6>
@@ -94,7 +94,7 @@
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../page/ressources/img/Univers/jira.jpg" class="card-img-top" alt="...">
+                    <img src="../../www/ressources/img/Univers/jira.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Jira</h5>
                         <h6>Suite Atlassian</h6>
@@ -102,7 +102,7 @@
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../page/ressources/img/Univers/confluence.png" class="card-img-top" alt="...">
+                    <img src="../../www/ressources/img/Univers/confluence.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Confluence</h5>
                         <h6>Suite Atlassian</h6>
@@ -137,12 +137,12 @@
                             Ensuite, je dis que quand la checkbox est cochée, le mode du thème doit être dark. Et finalement, grâce au onChange,
                             je détecte si la checkbox change d’état et j’applique la fonction handleModeChange qui va géré tout le processus de changement de style sur l’application.
                         </p>
-                        <img src="../../page/ressources/img/Univers/CodeCheckboxMode.png"style="width: 60%" >
+                        <img src="../../www/ressources/img/Univers/CodeCheckboxMode.png" style="width: 60%" >
                     </div>
                     <div>
                         <p>Voici le rendu final de la checkbox ajoutée.</p>
-                        <img src="../../page/ressources/img/Univers/IconSun.png" style="width: 7%">
-                        <img src="../../page/ressources/img/Univers/IconMoon.png" style="width: 7%">
+                        <img src="../../www/ressources/img/Univers/IconSun.png" style="width: 7%">
+                        <img src="../../www/ressources/img/Univers/IconMoon.png" style="width: 7%">
                     </div>
                 </div>
                 <div class="borderBottom img-mag">
@@ -152,7 +152,7 @@
                         il s’agit d’un SearchInput dans le menu de navigation pour trier le menu.
                         Pour cela, dans mon composant SideBar, j’ajoute à l’endroit voulu le SearchInput avec, en option, le onChange.
                     </p>
-                    <img src="../../page/ressources/img/Univers/searchInputMenu.png" style="width: 100%">
+                    <img src="../../www/ressources/img/Univers/searchInputMenu.png" style="width: 100%">
                     <p>
                         Ensuite, dans mon composant que j’ai créé au préalable.
                         Comme base, j’ai pris un input pour en faire un champ de recherche.
@@ -161,10 +161,10 @@
                         qui est la valeur que va écrire l’utilisateur, et grâce au onChange,
                         je détecte si le texte du input évolue et j’applique la fonction handleModeChange qui va gérer tout le processus de tri sur le menu.
                     </p>
-                    <img src="../../page/ressources/img/Univers/componentSearchInput.png" style="width: 50%">
+                    <img src="../../www/ressources/img/Univers/componentSearchInput.png" style="width: 50%">
                     <p>Voici le résultat final de cet ajout :</p>
-                    <img src="../../page/ressources/img/Univers/lightSidebar.png" style="width: 30%">
-                    <img src="../../page/ressources/img/Univers/darkSidebar.png" style="width: 30%">
+                    <img src="../../www/ressources/img/Univers/lightSidebar.png" style="width: 30%">
+                    <img src="../../www/ressources/img/Univers/darkSidebar.png" style="width: 30%">
                 </div>
                 <div class="borderBottom img-mag">
                     <h5>Theme</h5>
@@ -178,9 +178,9 @@
                         Pour cela j’ai crée des palettes de couleurs, celles-ci présente dans l’application Bazefield et
                         j’ai crée des variables pour géré les couleurs que prendrais certains éléments en fonction du mode.
                     </p>
-                    <img src="../../page/ressources/img/Univers/lightPalette.png" style="width: 16%">
-                    <img src="../../page/ressources/img/Univers/darkPalette.png" style="width: 16%">
-                    <img src="../../page/ressources/img/Univers/variablePalette.png" style="width: 50%">
+                    <img src="../../www/ressources/img/Univers/lightPalette.png" style="width: 16%">
+                    <img src="../../www/ressources/img/Univers/darkPalette.png" style="width: 16%">
+                    <img src="../../www/ressources/img/Univers/variablePalette.png" style="width: 50%">
                     <p>
                         Et grâce à ces variables, palette de couleurs et MaterialUI, je peux styliser les éléments facilement.
                         Par exemple, dans ce code, MuiCheckbox va me cibler toutes les checkbox de l’application.
@@ -188,20 +188,20 @@
                         Je définis donc ensuite la couleur de l’icône quand elle est dans un certain état ou thème et je définis son style particulier,
                         non défini par défaut par MUI (comme son padding, sa font-size, etc...), toujours dans l’optique de faire comme l’application Bazefield.
                     </p>
-                    <img src="../../page/ressources/img/Univers/codeCheckbox.png" style="width: 50%">
+                    <img src="../../www/ressources/img/Univers/codeCheckbox.png" style="width: 50%">
                     <p>
                         Je réitère le changement de style sur tous les éléments pour que l’application soit la plus ressemblante à Bazefield.
                         Voici une comparaison de Bazefield et DIP-O dans les deux mode et un avant et un après de DIP-O
                     </p>
                     <h6>DIP-O avant le style : </h6>
-                    <img src="../../page/ressources/img/Univers/AncienDIPOlight.png" style="width: 48%;">
-                    <img src="../../page/ressources/img/Univers/AncienDIPOdark.png" style="width: 48%;">
+                    <img src="../../www/ressources/img/Univers/AncienDIPOlight.png" style="width: 48%;">
+                    <img src="../../www/ressources/img/Univers/AncienDIPOdark.png" style="width: 48%;">
                     <h6>Exemple theme Bazefield : </h6>
-                    <img src="../../page/ressources/img/Univers/lightContentBZ.png" style="width: 48%;">
-                    <img src="../../page/ressources/img/Univers/darkContentBZ.png" style="width: 48%;">
+                    <img src="../../www/ressources/img/Univers/lightContentBZ.png" style="width: 48%;">
+                    <img src="../../www/ressources/img/Univers/darkContentBZ.png" style="width: 48%;">
                     <h6>DIP-O après style : </h6>
-                    <img src="../../page/ressources/img/Univers/nvDIPOlight.png" style="width: 48%;">
-                    <img src="../../page/ressources/img/Univers/nvDIPOdark.png" style="width: 48%;">
+                    <img src="../../www/ressources/img/Univers/nvDIPOlight.png" style="width: 48%;">
+                    <img src="../../www/ressources/img/Univers/nvDIPOdark.png" style="width: 48%;">
                 </div>
             </div>
         </div>

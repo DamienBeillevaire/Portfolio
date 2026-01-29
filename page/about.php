@@ -23,31 +23,31 @@
     </div>
     <div class="flex-card">
         <div class="card" style="width: 8rem;">
-            <img src="https://damien-beillevaire.tech/page/ressources/img/CompDev/HTML-5-Badge-Logo.png" class="card-img-top" alt="HTML">
+            <img src="../www/ressources/img/CompDev/HTML-5-Badge-Logo.png" class="card-img-top" alt="HTML">
             <div class="card-body">
                 <p class="card-text">HTML</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompDev/css.png" class="card-img-top" alt="CSS">
+            <img src="../www/ressources/img/CompDev/css.png" class="card-img-top" alt="CSS">
             <div class="card-body">
                 <p class="card-text">CSS</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompDev/js.png" class="card-img-top" alt="JavaScript">
+            <img src="../www/ressources/img/CompDev/js.png" class="card-img-top" alt="JavaScript">
             <div class="card-body">
                 <p class="card-text">JavaScript</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompDev/php-logo.png" class="card-img-top" alt="PHP">
+            <img src="../www/ressources/img/CompDev/php-logo.png" class="card-img-top" alt="PHP">
             <div class="card-body">
                 <p class="card-text">PHP</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompDev/sql.png" class="card-img-top" alt="SQL">
+            <img src="../www/ressources/img/CompDev/sql.png" class="card-img-top" alt="SQL">
             <div class="card-body">
                 <p class="card-text">SQL</p>
             </div>
@@ -84,19 +84,19 @@
     </div>
     <div class="flex-card">
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
+            <img src="../www/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
             <div class="card-body">
                 <p class="card-text">PHP Storm</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
+            <img src="../www/ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
             <div class="card-body">
                 <p class="card-text">Visual Studio Code</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/blender.jpg" class="card-img-top" alt="Blender">
+            <img src="../www/ressources/img/CompLogi/blender.jpg" class="card-img-top" alt="Blender">
             <div class="card-body">
                 <p class="card-text">Blender</p>
             </div>
@@ -157,13 +157,13 @@
     </div>
     <div class="flex-card">
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
+            <img src="../www/ressources/img/CompLogi/phpstorm.png" class="card-img-top" alt="PHPStorm">
             <div class="card-body">
                 <p class="card-text">Symphony</p>
             </div>
         </div>
         <div class="card" style="width: 8rem;">
-            <img src="../page/ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
+            <img src="../www/ressources/img/CompLogi/vsc-logo.png" class="card-img-top" alt="VSC">
             <div class="card-body">
                 <p class="card-text">React</p>
             </div>
