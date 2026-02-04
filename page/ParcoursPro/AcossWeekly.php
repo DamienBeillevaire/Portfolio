@@ -91,7 +91,7 @@
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">- Reflexion sur la mission principale du stage</li>
-                    <li class="list-group-item">- Création d'un script sql</li>
+                    <li class="list-group-item">- Création d'un script sql pour ajouter la nouvelle donnée</li>
                     <li class="list-group-item">- Création de l'entité et du controller</li>
                 </ul>
             </div>
@@ -100,8 +100,8 @@
                     Jeudi 22 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- Développement de la méthode GET_ALL</li>
-                    <li class="list-group-item">- Développement de la méthode POST</li>
+                    <li class="list-group-item">- Développement de la méthode GET_ALL (Recupere la liste des éléments contenu dans la base de donnée)</li>
+                    <li class="list-group-item">- Développement de la méthode POST (Permet l'envoie d'une donnée dans la base de donnée)</li>
                     <li class="list-group-item">- Correction de code</li>
                 </ul>
             </div>
@@ -110,8 +110,8 @@
                     Vendredi 23 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- Développement de la méthode POST</li>
-                    <li class="list-group-item">- Développement de la méthode PUT</li>
+                    <li class="list-group-item">- Développement de la méthode POST (Permet l'envoie d'une donnée dans la base de donnée)</li>
+                    <li class="list-group-item">- Développement de la méthode PUT (Permet la modification d'une donnée contenu dans la base de donnée)</li>
                 </ul>
             </div>
         </div>
@@ -124,11 +124,11 @@
                     Lundi 26 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- Développement de la méthode PUT</li>
-                    <li class="list-group-item">- Développement de la méthode GET_ID</li>
-                    <li class="list-group-item">- Développement de la méthode DELETE</li>
-                    <li class="list-group-item">- Mise en place d'un controle d'existance</li>
-                    <li class="list-group-item">- Test de toute les routes</li>
+                    <li class="list-group-item">- Développement de la méthode PUT (Permet la modification d'une donnée contenu dans la base de donnée)</li>
+                    <li class="list-group-item">- Développement de la méthode GET_ID (Recupere une donnée précise contenu dans la base de donnée)</li>
+                    <li class="list-group-item">- Développement de la méthode DELETE (Permet de supprimer une donnée contenu dans la base de donnée)</li>
+                    <li class="list-group-item">- Mise en place d'un controle qui permet de vérifier si une donnée existe deja</li>
+                    <li class="list-group-item">- Test de toute les routes (Chemins d'accès à la données)</li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -137,7 +137,7 @@
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">- Etude de la structure front-end</li>
-                    <li class="list-group-item">- Mise en place de l'interface</li>
+                    <li class="list-group-item">- Développement de l'interface utilisateur</li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -145,8 +145,8 @@
                     Mercredi 28 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- Mise en place de l'interface</li>
-                    <li class="list-group-item">- Ajout de toute les méthodes d'implémentation</li>
+                    <li class="list-group-item">- Développement de l'interface utilisateur</li>
+                    <li class="list-group-item">- Ajout de toute les méthodes d'implémentation sur l'interface utilisateur</li>
                     <li class="list-group-item">- Mise a jour des tests de l'application</li>
                     <li class="list-group-item">- Documentation de la nouvelle features</li>
                 </ul>
@@ -165,8 +165,8 @@
                     Vendredi 30 janvier
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Ajout d'un nouveau champs dans le schemas </li>
+                    <li class="list-group-item">- Modifications de l'interface utilisateur pour intégré le nouveau champs</li>
                     <li class="list-group-item">- </li>
                 </ul>
             </div>
@@ -177,7 +177,17 @@
         <div class="flex-card">
             <div class="card" style="width: 20rem;">
                 <div class="card-header">
-                    Lundi 31 janvier
+                    Lundi 2 janvier
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">- Modifications de l'interface utilisateur pour intégré le nouveau champs</li>
+                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- </li>
+                </ul>
+            </div>
+            <div class="card" style="width: 20rem;">
+                <div class="card-header">
+                    Mardi 3 février
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">- </li>
@@ -187,7 +197,7 @@
             </div>
             <div class="card" style="width: 20rem;">
                 <div class="card-header">
-                    Mardi 1 février
+                    Mercredi 4 février
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">- </li>
@@ -197,7 +207,7 @@
             </div>
             <div class="card" style="width: 20rem;">
                 <div class="card-header">
-                    Mercredi 2 février
+                    Jeudi 5 février
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">- </li>
@@ -207,17 +217,7 @@
             </div>
             <div class="card" style="width: 20rem;">
                 <div class="card-header">
-                    Jeudi 3 février
-                </div>
-                <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                </ul>
-            </div>
-            <div class="card" style="width: 20rem;">
-                <div class="card-header">
-                    Vendredi 4 février
+                    Vendredi 6 février
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">- </li>
@@ -232,7 +232,7 @@
         <div class="flex-card">
             <div class="card" style="width: 20rem;">
                 <div class="card-header">
-                    Lundi 5 février
+                    Lundi 9 février
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">- </li>
@@ -242,7 +242,7 @@
             </div>
             <div class="card" style="width: 20rem;">
                 <div class="card-header">
-                    Mardi 6 février
+                    Mardi 10 février
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">- </li>
@@ -252,7 +252,7 @@
             </div>
             <div class="card" style="width: 20rem;">
                 <div class="card-header">
-                    Mercredi 7 février
+                    Mercredi 11 février
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">- </li>
@@ -262,7 +262,7 @@
             </div>
             <div class="card" style="width: 20rem;">
                 <div class="card-header">
-                    Jeudi 8 février
+                    Jeudi 12 février
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">- </li>
@@ -272,7 +272,7 @@
             </div>
             <div class="card" style="width: 20rem;">
                 <div class="card-header">
-                    Vendredi 9 février
+                    Vendredi 13 février
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">- </li>

@@ -23,7 +23,7 @@
     </div>
     <div class="flex-card">
         <div class="card" style="width: 8rem;">
-            <img src="../www/ressources/img/CompDev/HTML-5-Badge-Logo.png" class="card-img-top" alt="HTML">
+            <img src="https://i.imageupload.app/f622f2559c6010c00e65.png" alt="image">
             <div class="card-body">
                 <p class="card-text">HTML</p>
             </div>
