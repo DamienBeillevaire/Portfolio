@@ -120,10 +120,10 @@
                         Les langages de programmation que j’ai utiliser sont le TypeScript et React.
                     </p>
                     <p>
-                        J’ai commencé par faire de la documentation pour lister les éléments qui devaient être stylisés (document PDF <a href="..f/Univers/componentToStyle.pdf" target="_blank" download="componentToStyle">ici</a>).
+                        J’ai commencé par faire de la documentation pour lister les éléments qui devaient être stylisés (document PDF <a href="https://drive.google.com/file/d/1JW36e-zFbx3lEPCsi7X_pLGqwlpr2jSR/view?usp=sharing">ici</a>).
                     </p>
                     <p>Ensuite, pour facilité le changement de mode, je devais ajouter un bouton pour faire le changement entre le thème dark et le thème light.
-                        J’ai donc analysé quel type de bouton je devais utiliser, via les composants proposés par MUI, pour cette fonctionnalité (document PDF <a href="..f/Univers/buttonAnalyse.pdf" target="_blank" download="buttonAnalyse">ici</a>).
+                        J’ai donc analysé quel type de bouton je devais utiliser, via les composants proposés par MUI, pour cette fonctionnalité (document PDF <a href="https://drive.google.com/file/d/1c6bEATSrQDc9WzvNNLnw91e5dXNVAULD/view?usp=sharing">ici</a>).
                     </p>
                 </div>
                 <div class="borderBottom img-mag">
@@ -171,7 +171,7 @@
                     <p>
                         Par la suite, j’ai pu crée un autre document montrant toutes les
                         modifications qui seront apporté sur les éléments principaux tel que la navbar,
-                        sidebar et le contenu principal (document PDF <a href="..f/Univers/newGlobalTheme.pdf" target="_blank" download="newGlobalTheme"">ici</a>)
+                        sidebar et le contenu principal (document PDF <a href="https://drive.google.com/file/d/1dg0mMBL63zea8QRBVN31HLzMRvRIWzzl/view?usp=sharing">ici</a>)
                     </p>
                     <p>
                         Et enfin je suis passée a la création du nouveau style pour l’application DIP-O en prenant exemple de Bazefield.
