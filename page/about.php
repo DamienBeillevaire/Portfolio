@@ -13,7 +13,7 @@
         <p>Vous retrouverez ci-dessous mon CV ainsi que mes différents projets 👩‍💻</p>
         <br>
 
-        <a class="padding-m" href="" target="_blank" download="CV Damien Beillevaire"><button class="button-74" role="button">CV</button></a>
+        <a class="padding-m" href="https://drive.google.com/file/d/1jew2tDTAjMAprgDAhNKVb2vZcffj9GVe/view?usp=sharing"><button class="button-74" role="button">CV</button></a>
         <a href="https://www.linkedin.com/in/damien-beillevaire-77983a345" target="_blank"><button class="button-74" role="button">Linkedin</button></a>
 
     </div>

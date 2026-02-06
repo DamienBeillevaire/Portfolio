@@ -181,8 +181,6 @@
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">- Modifications de l'interface utilisateur pour intégré le nouveau champs</li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -190,9 +188,7 @@
                     Mardi 3 février
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Utilisation de la donnée template_fedex</li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -200,8 +196,9 @@
                     Mercredi 4 février
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Utilisation de la donnée template_fedex</li>
+                    <li class="list-group-item">- Déploiement de la nouvelle fonctionnalité sur la branch de developpement</li>
+                    <li class="list-group-item">- Correction des tests unitaires de l'application</li>
                     <li class="list-group-item">- </li>
                 </ul>
             </div>
@@ -210,9 +207,8 @@
                     Jeudi 5 février
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Correction des tests unitaires de l'application</li>
+                    <li class="list-group-item">- Mise en place de la "readthedoc" (documentation de l'application pour les intégrateurs)</li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -220,9 +216,8 @@
                     Vendredi 6 février
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Mise en place de la "readthedoc" (documentation de l'application pour les intégrateurs)</li>
+                    <li class="list-group-item">- Evolution du Portfolio avec les conseils d'experts</li>
                 </ul>
             </div>
         </div>
