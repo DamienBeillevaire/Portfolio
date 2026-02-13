@@ -1,8 +1,4 @@
 <nav class="navbar navbar-expand-lg">
-    <div class="langButton">
-        <button class="button-74" href="?route=dashboard" style="width: 10px;"><span>Français</span></button>
-        <button class="button-74" href="?route=dashboardAn"><span>Anglais</span></button>
-    </div>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>

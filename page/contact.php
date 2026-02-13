@@ -48,6 +48,7 @@
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                     </div>
                 </div>
+                <button class="btn btn-primary" type="submit" style="width: 8rem">Envoyer</button>
             </div>
         </div>
     </section>
