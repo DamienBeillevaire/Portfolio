@@ -230,9 +230,7 @@
                     Lundi 9 février
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Evolution du Portfolio </li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -240,9 +238,8 @@
                     Mardi 10 février
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Evolution du Portfolio </li>
+                    <li class="list-group-item">- Mise en place d'un focus sur une nouvelle donnée crée </li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -250,9 +247,8 @@
                     Mercredi 11 février
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Evolution du Portfolio </li>
+                    <li class="list-group-item">- Mise en place d'un focus sur une nouvelle donnée crée </li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -260,9 +256,7 @@
                     Jeudi 12 février
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Evolution du Portfolio </li>
                 </ul>
             </div>
             <div class="card" style="width: 20rem;">
@@ -270,9 +264,7 @@
                     Vendredi 13 février
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
-                    <li class="list-group-item">- </li>
+                    <li class="list-group-item">- Evolution du Portfolio </li>
                 </ul>
             </div>
         </div>
