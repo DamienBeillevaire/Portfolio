@@ -68,8 +68,10 @@
                 <h2>Mission Principale</h2>
                 <h3>Objectif : </h3>
                 <div>
-                    <p>Dans un premier temps crée un backend "template_fedex" capable d'interroger une BDD avec toute les methodes d'appelle API GET/POST/PUT/DELETE d'une table crée au préalable
-                        afin de faire une interface utilisateur permettant de paramettrer des données dans une interface utilisateur.
+                    <p>Dans un premier temps le client demande de crée un backend "template_fedex" capable d'interroger une BDD avec toute les
+                        methodes d'appelle API GET/POST/PUT/DELETE d'une table crée au préalable
+                        afin de faire une interface utilisateur permettant de paramettrer des données dans une interface utilisateur. Pour cela le client
+                        nous fourni une image qui montrerais a quoi devrais ressembler cette interface de paramétrage.
                         Et dans un second temps faire évoluer le web-service fedex présent dans DDP-DIT pour pouvoir copier les droits
                         de modifications et de création associé au projet template_fedex
                         </p>
@@ -336,6 +338,16 @@
                         </div>
                     </div>
                 </div>
+                <p>________________________________________________________________________________________________________________________________________________________________</p>
+                <!---------------------------------------------------Compétence B1--------------------------------------------------->
+                <h4>Compétence B1</h4>
+                <h6>Répondre aux incident et aux demandes d'assistance et d'évolution</h6>
+                <p>- Traité des demandes concernant les applications</p>
+                <h6>Travailler en mode projet</h6>
+                <p>- Planifier les activités</p><br>
+                <p>- Analyser les objectifs et les modalités d'organisation d'un projet </p>
+                <h6>Organiser son développement professionnel </h6>
+                <p>- Mettre en place son environnement d'apprentissage personnel</p>
                 <p>________________________________________________________________________________________________________________________________________________________________</p>
                 <!---------------------------------------------------Exploitation de la donnée--------------------------------------------------->
                 <h4>Exploitation de la donnée</h4>
