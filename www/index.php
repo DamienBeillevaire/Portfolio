@@ -60,6 +60,9 @@ echo "<!DOCTYPE html>
                 case "stageAcossWeekly";
                     include("../control/Stage/AcossWeeklyControl.php");
                     break;
+                case "ExamsB1";
+                    include("../control/ExamsB1.php");
+                    break;
                 default;
                     echo "<p>La route spécifié n'existe pas!</p>";
                     break;
