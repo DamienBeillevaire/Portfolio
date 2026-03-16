@@ -1,69 +1,183 @@
 <div class="defaultContainer">
-    <section class="main-align">
-        <div class="section-title">
-            <h1>Acoss</h1>
-            <h2>Présentation de l'entreprise</h2>
-            <ul>
-                <li>Numéro de SIRET : 180 035 016 00096</li>
-                <li>Dénomination sociale : ACOSS NANTES</li>
-                <li>Forme juridique : Établissement public national à caractère administratif</li>
-            </ul>
-            <p>
-                L'Union de Recouvrement des cotisations de Sécurité Sociale et d'Allocations Familiales (Urssaf) est
-                un organisme qui procède à la collecte et à la redistribution des cotisations et contributions destinées
-                au financement de la Sécurité sociale.
-            </p>
+    <!--
+    <div class="flex-card">
+        <div class="card" style="width: 35rem;">
+            <h5 class="card-header">Gérer le patrimoine informatique</h5>
+            <div class="card-body">
+                <p class="card-text">- Recenser et identifier les ressources numériques</p>
+                <p class="card-text">- Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</p>
+                <p class="card-text">- Mettre en place et vérifier les niveaux d’habilitation associés à un service</p>
+                <p class="card-text">- Vérifier les conditions de la continuité d’un service informatique </p>
+                <p class="card-text">- Gérer des sauvegardes </p>
+                <p class="card-text">- Vérifier le respect des règles d’utilisation des ressources numériques</p>
+            </div>
+        </div>
+        <div class="card" style="width: 35rem;">
+            <h5 class="card-header">Répondre aux incidents et aux demandes d’assistance et d’évolution</h5>
+            <div class="card-body">
+                <p class="card-text">- Collecter, suivre et orienter des demandes</p>
+                <p class="card-text">- Traiter des demandes concernant les services réseau et système, applicatifs </p>
+                <p class="card-text">- Traiter des demandes concernant les applications</p>
+            </div>
+        </div>
+        <div class="card" style="width: 35rem;">
+            <h5 class="card-header">Développer la présence en ligne de l’organisation</h5>
+            <div class="card-body">
+                <p class="card-text">- Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</p>
+                <p class="card-text">- Référencer les services en ligne de l’organisation et mesurer leur visibilité.</p>
+                <p class="card-text">- Participer à l’évolution d’un site Web exploitant les données de l’organisation.</p>
+            </div>
+        </div>
+        <div class="card" style="width: 35rem;">
+            <h5 class="card-header">Travailler en mode projet</h5>
+            <div class="card-body">
+                <p class="card-text">Analyser les objectifs et les modalités d’organisation d’un projet</p>
+                <p class="card-text">Planifier les activités</p>
+                <p class="card-text">Évaluer les indicateurs de suivi d’un projet et analyser les écarts</p>
+            </div>
+        </div>
+        <div class="card" style="width: 35rem;">
+            <h5 class="card-header">Mettre à disposition des utilisateurs un service informatique</h5>
+            <div class="card-body">
+                <p class="card-text">Réaliser les tests d’intégration et d’acceptation d’un service</p>
+                <p class="card-text">Déployer un service</p>
+                <p class="card-text">Accompagner les utilisateurs dans la mise en place d’un service</p>
 
+            </div>
+        </div>
+        <div class="card" style="width: 35rem;">
+            <h5 class="card-header">Organiser son développement professionnel</h5>
+            <div class="card-body">
+                <p class="card-text">Mettre en place son environnement d’apprentissage personnel</p>
+                <p class="card-text">Mettre en œuvre des outils et stratégies de veille informationnelle</p>
+                <p class="card-text">Gérer son identité professionnelle</p>
+                <p class="card-text">Développer son projet professionnel</p>
 
+            </div>
+        </div>
+    </div>-->
+    <div class="main-align">
+        <div>
+            <h2>GitHub</h2>
+            <h4>Compétence travailler</h4>
             <div class="flex-card">
-                <div class="card" style="width: 35rem;">
-                    <img src="https://i.imageupload.app/1837a01e8a6ef9812c7d.png" class="card-img-top" alt="Organigramme générale">
+                <div class="card" style="width: 25rem;">
+                    <h5 class="card-header">Gérer le patrimoine informatique</h5>
                     <div class="card-body">
-                        <p class="card-text">Au sein de l'entreprise, il y a plusieurs groupes, nous faisons tous parti de la DSI (direction des systèmes d'information).
-                            Je faisais partie du groupe DA architecture infrastructures et sécurité.</p>
+                        <p class="card-text">- Recenser et identifier les ressources numériques</p>
+                        <p class="card-text">- Gérer des sauvegardes </p>
+                        <p class="card-text">- Vérifier le respect des règles d’utilisation des ressources numériques</p>
                     </div>
                 </div>
-
-                <div class="card" style="width: 35rem;">
-                    <img src="https://i.imageupload.app/4d90662d842c539ab501.png" class="card-img-top" alt="Département">
+                <div class="card" style="width: 25rem;">
+                    <h5 class="card-header">Répondre aux incidents et aux demandes d’assistance et d’évolution</h5>
                     <div class="card-body">
-                        <p class="card-text">Dans ce groupe  Loresdjkfdsifhjdsbfhjbdshjfbsdhjbfhjsdbfjhsdbfjhdsbfjhbsjfbdsjfbdshjfbdshjbfjhdbfjhbdsjfhbdshjfbjdshbfhjdsbjhfbdsfbsdjhbfjsdbfjhdsbfjbsdfbjdshb</p>
+                        <p class="card-text">- Collecter, suivre et orienter des demandes</p>
+                        <p class="card-text">- Traiter des demandes concernant les applications</p>
                     </div>
                 </div>
-
-                <div class="card" style="width: 35rem;">
-                    <img src="https://i.imageupload.app/5a415a7c3b11722d0d17.png" class="card-img-top" alt="Application">
+                <div class="card" style="width: 25rem;">
+                    <h5 class="card-header">Travailler en mode projet</h5>
                     <div class="card-body">
-                        <p class="card-text">Les outils sur lequelle mon département agis sont les outils transverses, pour ma pars j'ai simplement agis sur l'application DDP-DIT</p>
+                        <p class="card-text">Analyser les objectifs et les modalités d’organisation d’un projet</p>
+                        <p class="card-text">Planifier les activités</p>
+                        <p class="card-text">Évaluer les indicateurs de suivi d’un projet et analyser les écarts</p>
                     </div>
                 </div>
-
-                <div class="card" style="width: 35rem;">
-                    <img src="https://i.imageupload.app/3da6fc4cc2a69e4b784b.png" class="card-img-top" alt="Urssaf">
+            </div>
+        </div>
+        <div>
+            <h2>Stage Ursaff</h2>
+            <h4>Compétence travailler</h4>
+            <div class="flex-card">
+                <div class="card" style="width: 25rem;">
+                    <h5 class="card-header">Gérer le patrimoine informatique</h5>
                     <div class="card-body">
-                        <p class="card-text">L'entreprise Acoss est le pilié de l'enchange d'information informatique dans le domaine du recouvrement</p>
+                        <p class="card-text">- Recenser et identifier les ressources numériques</p>
+                        <p class="card-text">- Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</p>
                     </div>
                 </div>
-
-                <div class="card" style="width: 35rem;">
-                    <img src="https://i.imageupload.app/4517ab9b9720656a1a5e.png" class="card-img-top" alt="Mission">
+                <div class="card" style="width: 25rem;">
+                    <h5 class="card-header">Développer la présence en ligne de l’organisation</h5>
                     <div class="card-body">
-                        <p class="card-text">L'objectif de l'URSSAF est de collecté des fonds aupres de cotisant telle les employeurs/entrepreneurs et salarié afin de reversé
-                            ces fonds pour l'assurance maladie</p>
+                        <p class="card-text">- Référencer les services en ligne de l’organisation et mesurer leur visibilité.</p>
+                        <p class="card-text">- Participer à l’évolution d’un site Web exploitant les données de l’organisation.</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 25rem;">
+                    <h5 class="card-header">Répondre aux incidents et aux demandes d’assistance et d’évolution</h5>
+                    <div class="card-body">
+                        <p class="card-text">- Collecter, suivre et orienter des demandes</p>
+                        <p class="card-text">- Traiter des demandes concernant les services réseau et système, applicatifs </p>
+                        <p class="card-text">- Traiter des demandes concernant les applications</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 35rem;">
+                    <h5 class="card-header">Travailler en mode projet</h5>
+                    <div class="card-body">
+                        <p class="card-text">Analyser les objectifs et les modalités d’organisation d’un projet</p>
+                        <p class="card-text">Planifier les activités</p>
+                        <p class="card-text">Évaluer les indicateurs de suivi d’un projet et analyser les écarts</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 35rem;">
+                    <h5 class="card-header">Organiser son développement professionnel</h5>
+                    <div class="card-body">
+                        <p class="card-text">Mettre en place son environnement d’apprentissage personnel</p>
+                    </div>
+                </div>
+            </div>
+            <div class="flex-card">
+                <div class="card" style="width: 8rem;">
+                    <img src="https://i.imageupload.app/e7d0bfaf86cf68d20cee.png" alt="PHP">
+                    <div class="card-body">
+                        <p class="card-text">PHP</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 8rem;">
+                    <img src="https://i.imageupload.app/aa43c3fc779a626f1221.png" class="card-img-top" alt="PostgreSQL">
+                    <div class="card-body">
+                        <p class="card-text">PostgreSQL</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 8rem;">
+                    <img src="https://i.imageupload.app/fee91a32fbde6a0ab309.png" class="card-img-top" alt="Angular">
+                    <div class="card-body">
+                        <p class="card-text">Angular</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 8rem;">
+                    <img src="https://i.imageupload.app/7a202265093cfbf330a9.png" alt="PHPStorm">
+                    <div class="card-body">
+                        <p class="card-text">PHP Storm</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 8rem;">
+                    <img src="https://i.imageupload.app/9fa5af2c125b47d4de03.png" class="card-img-top" alt="DBeaver">
+                    <div class="card-body">
+                        <p class="card-text">DBeaver</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 8rem;">
+                    <img src="https://i.imageupload.app/b7ea365582c5254b57e4.png" class="card-img-top" alt="Fork">
+                    <div class="card-body">
+                        <p class="card-text">Fork</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 8rem;">
+                    <img src="https://i.imageupload.app/7f005a2bcaeb74d2479d.png" class="card-img-top" alt="Insomnia">
+                    <div class="card-body">
+                        <p class="card-text">Insomnia</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 8rem;">
+                    <img src="https://i.imageupload.app/b76ff56bbca8bacd2a52.png" class="card-img-top" alt="GitLab">
+                    <div class="card-body">
+                        <p class="card-text">GitLab</p>
                     </div>
                 </div>
             </div>
 
-
-            <div class="section-title">
-                <h2>Résumé des semaines</h2>
-                <a href="?route=stageAcossWeekly" style="width: 8rem" class="btn btn-primary">Redirection</a>
-            </div>
-
-            <!---------------------------------------------------OUTILS UTILISé--------------------------------------------------->
-            <div>
-            </div>
-            <!---------------------------------------------------OBJECTIF STAGE--------------------------------------------------->
             <div class="section-title">
                 <h2>Mission Principale</h2>
                 <h3>Objectif : </h3>
@@ -361,7 +475,7 @@
                         <img src="https://i.imageupload.app/a263594e75f4c12084f4.png" style="width: 100%" class="img-fluid mx-auto d-block w-55" alt="Init base">
                         <div class="card-body">
                             <p class="card-text">Sur cette fonction je devais réaliser une connexion avec mon interface pour quelle puisse prendre en paramètre deux attributs.
-                            Le nom du projet template_fedex et le type de projet template fedex.</p>
+                                Le nom du projet template_fedex et le type de projet template fedex.</p>
                         </div>
                     </div>
                     <div class="card" style="width: 35rem;">
@@ -369,8 +483,8 @@
                         <img src="https://i.imageupload.app/c154a685c8ff54e97192.png" style="width: 100%" class="img-fluid mx-auto d-block w-55" alt="Init base">
                         <div class="card-body">
                             <p class="card-text">Ces attribuent sont reliés à cette instanciation dans le même fichier, cette instanciation fait appelle au service de template_fedex
-                            qui permet de récupérer un template qui correspond au projet indiquer. Si aucun template correspond à mon projet alors je défini ma variable a null pour éviter
-                            de casser mon code.</p>
+                                qui permet de récupérer un template qui correspond au projet indiquer. Si aucun template correspond à mon projet alors je défini ma variable a null pour éviter
+                                de casser mon code.</p>
                         </div>
                     </div>
                     <div class="card" style="width: 35rem;">
@@ -378,7 +492,7 @@
                         <img src="https://i.imageupload.app/7b935466f558dd5b456e.png" style="width: 90%" class="img-fluid mx-auto d-block w-55" alt="Init base">
                         <div class="card-body">
                             <p class="card-text">Ainsi si un template correspond au projet alors les deux nouveaux attributs vont prendre la donnée qui correspond au nom
-                            du template et au socle de fedex qui correspond au type de projet. </p>
+                                du template et au socle de fedex qui correspond au type de projet. </p>
                             <br>
                             <p class="card-text"> Graçe à ça, si un template correspond à un projet fedex alors
                                 les droits de modifications et de création pourrons être copier du template au projet fedex</p>
@@ -440,9 +554,9 @@
                         <img src="https://i.imageupload.app/78e506805649e88929d0.png" style="width: 100%" class="img-fluid mx-auto d-block w-55" alt="Init base">
                         <div class="card-body">
                             <p class="card-text">Sur le site de la dev je vérifie que les modifications ont bien été ajouté et fonctionne bien sur l'environnement,
-                            ici je retrouve une erreur. Celle-ci indique que la base de donnée n'est pas actualisé et que mon écran demande des données non existante.
-                            N'ayant pas personnellement accès à la base de données de dev mon tuteur a pur faire de son côté la mise a jour.
-                            Il a donc update la base de donnée avec le script SQL que j'ai fourni au préalable dans le dépot GitLab du projet.</p>
+                                ici je retrouve une erreur. Celle-ci indique que la base de donnée n'est pas actualisé et que mon écran demande des données non existante.
+                                N'ayant pas personnellement accès à la base de données de dev mon tuteur a pur faire de son côté la mise a jour.
+                                Il a donc update la base de donnée avec le script SQL que j'ai fourni au préalable dans le dépot GitLab du projet.</p>
                         </div>
                     </div>
                     <div class="card" style="width: 35rem;">
@@ -452,11 +566,60 @@
                             <p class="card-text">Après l'update de la base de données je remarque que mes modifications on bien été pris en compte et que tout fonctionne.</p>
                             <br>
                             <p class="card-text">Remarque : Le déploiement sur la dev permet au testeur de vérifié que tout est en règle et que tout fonctionne correctement.
-                            Une fois l'application testé elle passe en pré-prod et après si elle est validée elle passe en production international. </p>
+                                Une fois l'application testé elle passe en pré-prod et après si elle est validée elle passe en production international. </p>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
-    </section>
+        <div>
+            <h2>Test et Déploiement</h2>
+            <h4>Compétence travailler</h4>
+            <div class="flex-card">
+                <div class="card" style="width: 35rem;">
+                    <h5 class="card-header">Mettre à disposition des utilisateurs un service informatique</h5>
+                    <div class="card-body">
+                        <p class="card-text">Réaliser les tests d’intégration et d’acceptation d’un service</p>
+                        <p class="card-text">Déployer un service</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <h2>Portefolio</h2>
+            <h4>Compétence travailler</h4>
+            <div class="flex-card">
+                <div class="card" style="width: 35rem;">
+                    <h5 class="card-header">Gérer le patrimoine informatique</h5>
+                    <div class="card-body">
+                        <p class="card-text">- Recenser et identifier les ressources numériques</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 25rem;">
+                    <h5 class="card-header">Développer la présence en ligne de l’organisation</h5>
+                    <div class="card-body">
+                        <p class="card-text">- Référencer les services en ligne de l’organisation et mesurer leur visibilité.</p>
+                        <p class="card-text">- Participer à l’évolution d’un site Web exploitant les données de l’organisation.</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 35rem;">
+                    <h5 class="card-header">Mettre à disposition des utilisateurs un service informatique</h5>
+                    <div class="card-body">
+                        <p class="card-text">Déployer un service</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 35rem;">
+                    <h5 class="card-header">Organiser son développement professionnel</h5>
+                    <div class="card-body">
+                        <p class="card-text">Mettre en place son environnement d’apprentissage personnel</p>
+                        <p class="card-text">Mettre en œuvre des outils et stratégies de veille informationnelle</p>
+                        <p class="card-text">Gérer son identité professionnelle</p>
+                        <p class="card-text">Développer son projet professionnel</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <img src="https://i.imageupload.app/40949f686f8352ae5911.png" alt="E5 exams">
+    </div>
 </div>

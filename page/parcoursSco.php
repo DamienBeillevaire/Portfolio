@@ -8,6 +8,7 @@
                             <h5 class="card-title">BTS SIO La Colinière</h5>
                             <p class="card-text">Some quick example text to build on</p>
                             <a href="https://coliniere.paysdelaloire.e-lyco.fr" class="btn btn-primary">Site école</a>
+                            <a href="?route=ExamsB1" class="btn btn-primary">Epreuve E5</a>
                         </div>
                     </div>
                 </div>
