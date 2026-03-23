@@ -53,15 +53,66 @@
                     </div>
                 </div>
             </div>
-
-
+            <!---------------------------------------------------SEMAINE RESUMER--------------------------------------------------->
+<!--
             <div class="section-title">
                 <h2>Résumé des semaines</h2>
                 <a href="?route=stageAcossWeekly" style="width: 8rem" class="btn btn-primary">Redirection</a>
             </div>
-
+-->
             <!---------------------------------------------------OUTILS UTILISé--------------------------------------------------->
             <div>
+                <h3>Technologies</h3>
+                <div class="flex-card">
+                    <div class="card" style="width: 8rem;">
+                        <img src="https://i.imageupload.app/e7d0bfaf86cf68d20cee.png" alt="PHP">
+                        <div class="card-body">
+                            <p class="card-text">PHP</p>
+                        </div>
+                    </div>
+                    <div class="card" style="width: 8rem;">
+                        <img src="https://i.imageupload.app/aa43c3fc779a626f1221.png" class="card-img-top" alt="PostgreSQL">
+                        <div class="card-body">
+                            <p class="card-text">PostgreSQL</p>
+                        </div>
+                    </div>
+                    <div class="card" style="width: 8rem;">
+                        <img src="https://i.imageupload.app/fee91a32fbde6a0ab309.png" class="card-img-top" alt="Angular">
+                        <div class="card-body">
+                            <p class="card-text">Angular</p>
+                        </div>
+                    </div>
+                    <div class="card" style="width: 8rem;">
+                        <img src="https://i.imageupload.app/7a202265093cfbf330a9.png" alt="PHPStorm">
+                        <div class="card-body">
+                            <p class="card-text">PHP Storm</p>
+                        </div>
+                    </div>
+                    <div class="card" style="width: 8rem;">
+                        <img src="https://i.imageupload.app/9fa5af2c125b47d4de03.png" class="card-img-top" alt="DBeaver">
+                        <div class="card-body">
+                            <p class="card-text">DBeaver</p>
+                        </div>
+                    </div>
+                    <div class="card" style="width: 8rem;">
+                        <img src="https://i.imageupload.app/b7ea365582c5254b57e4.png" class="card-img-top" alt="Fork">
+                        <div class="card-body">
+                            <p class="card-text">Fork</p>
+                        </div>
+                    </div>
+                    <div class="card" style="width: 8rem;">
+                        <img src="https://i.imageupload.app/7f005a2bcaeb74d2479d.png" class="card-img-top" alt="Insomnia">
+                        <div class="card-body">
+                            <p class="card-text">Insomnia</p>
+                        </div>
+                    </div>
+                    <div class="card" style="width: 8rem;">
+                        <img src="https://i.imageupload.app/b76ff56bbca8bacd2a52.png" class="card-img-top" alt="GitLab">
+                        <div class="card-body">
+                            <p class="card-text">GitLab</p>
+                        </div>
+                    </div>
+                </div>
             </div>
             <!---------------------------------------------------OBJECTIF STAGE--------------------------------------------------->
             <div class="section-title">
@@ -335,16 +386,6 @@
                         </div>
                     </div>
                 </div>
-                <p>________________________________________________________________________________________________________________________________________________________________</p>
-                <!---------------------------------------------------Compétence B1--------------------------------------------------->
-                <h4>Compétence B1</h4>
-                <h6>Répondre aux incident et aux demandes d'assistance et d'évolution</h6>
-                <p>- Traité des demandes concernant les applications</p>
-                <h6>Travailler en mode projet</h6>
-                <p>- Planifier les activités</p><br>
-                <p>- Analyser les objectifs et les modalités d'organisation d'un projet </p>
-                <h6>Organiser son développement professionnel </h6>
-                <p>- Mettre en place son environnement d'apprentissage personnel</p>
                 <p>________________________________________________________________________________________________________________________________________________________________</p>
                 <!---------------------------------------------------Exploitation de la donnée--------------------------------------------------->
                 <h4>Exploitation de la donnée</h4>
