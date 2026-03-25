@@ -63,6 +63,18 @@ echo "<!DOCTYPE html>
                 case "ExamsB1";
                     include("../control/ExamsB1.php");
                     break;
+                case "ProjetDiscoverAPI";
+                    include("../control/Projet/DiscoverAPIControl.php");
+                    break;
+                case "ProjetDiscoverWeb";
+                    include("../control/Projet/DiscoverWebControl.php");
+                    break;
+                case "ProjetKotlin";
+                    include("../control/Projet/KotlinControl.php");
+                    break;
+                case "ProjetPortfolio";
+                    include("../control/Projet/PortfolioControl.php");
+                    break;
                 default;
                     echo "<p>La route spécifié n'existe pas!</p>";
                     break;
