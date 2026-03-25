@@ -24,21 +24,21 @@
             <h4>Logiciels de l'entreprise</h4>
             <div class="flex-card">
                 <div class="card" style="width: 15rem;">
-                    <img src="../../www/ressources/img/Univers/LogoDIPO.png" class="card-img-top" alt="...">
+                    <img src="https://i.imageupload.app/b240144143b31d5c6392.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">DIP-O</h5>
                         <p class="card-text">Logiciel qui permet l'onboarding des centrales des clients de façon optimisée.</p>
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../www/ressources/img/Univers/QantumLogo.png" class="card-img-top" alt="...">
+                    <img src="https://i.imageupload.app/02b5b101deed5f961aa1.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Qantum</h5>
                         <p class="card-text">Ancien logiciel de gestion analytique des données. Il est moins avancé que Bazefield et s’occupe de clients avec des petits sites.</p>
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../www/ressources/img/Univers/BazefieldLogo.jpg" class="card-img-top" alt="...">
+                    <img src="https://i.imageupload.app/931f531e4cc593ac1a19.jpeg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Bazefield</h5>
                         <p class="card-text">Logiciel de gestion analytique des données à destination des clients. Ce logiciel appartient au groupe norvégien d'Univers</p>
@@ -57,28 +57,28 @@
             <h4>Logiciels et applications</h4>
             <div class="flex-card">
                 <div class="card" style="width: 15rem;">
-                    <img src="../../www/ressources/img/Univers/GitLab.jpg" class="card-img-top" alt="...">
+                    <img src="https://i.imageupload.app/b7226d4cbf7ef46c648e.jpeg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">GitLab</h5>
                         <p class="card-text">GitLab est un logiciel libre de forge basé sur git proposant les fonctionnalités de wiki, un système de suivi des bugs, l’intégration continue et la livraison continue (gestion de projet et centralisation)</p>
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../www/ressources/img/Univers/Bitwarden.png" class="card-img-top" alt="...">
+                    <img src="https://i.imageupload.app/5f395b35d682580324c8.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Bitwarden</h5>
                         <p class="card-text">Bitwarden est un gestionnaire de mots de passe freemium et partiellement sous licence libre AGPL, qui permet de générer et de conserver des mots de passe de manière sécurisée </p>
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../www/ressources/img/Univers/openVPN.png" class="card-img-top" alt="...">
+                    <img src="https://i.imageupload.app/4952610990ff2f6ead3c.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">openVPN</h5>
                         <p class="card-text">C’est un logiciel libre et open source permettant de créer un réseau privé virtuel (accéder au réseau de l’entreprise depuis l’extérieur)</p>
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../www/ressources/img/Univers/teams.jpg" class="card-img-top" alt="...">
+                    <img src="https://i.imageupload.app/efb13907cab7dd2133d9.jpeg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Teams</h5>
                         <h6>Suite Microsoft</h6>
@@ -86,7 +86,7 @@
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../www/ressources/img/Univers/outlook.png" class="card-img-top" alt="...">
+                    <img src="https://i.imageupload.app/8c28ef06bd1fb8b9df7a.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Outlook</h5>
                         <h6>Suite Microsoft</h6>
@@ -94,7 +94,7 @@
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../www/ressources/img/Univers/jira.jpg" class="card-img-top" alt="...">
+                    <img src="https://i.imageupload.app/afd981478909e0f213f9.jpeg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Jira</h5>
                         <h6>Suite Atlassian</h6>
@@ -102,7 +102,7 @@
                     </div>
                 </div>
                 <div class="card" style="width: 15rem;">
-                    <img src="../../www/ressources/img/Univers/confluence.png" class="card-img-top" alt="...">
+                    <img src="https://i.imageupload.app/ccbfe4d5e022bc66dae8.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Confluence</h5>
                         <h6>Suite Atlassian</h6>
@@ -137,12 +137,12 @@
                             Ensuite, je dis que quand la checkbox est cochée, le mode du thème doit être dark. Et finalement, grâce au onChange,
                             je détecte si la checkbox change d’état et j’applique la fonction handleModeChange qui va géré tout le processus de changement de style sur l’application.
                         </p>
-                        <img src="../../www/ressources/img/Univers/CodeCheckboxMode.png" style="width: 60%" >
+                        <img src="https://i.imageupload.app/b352787e7eebab30a14d.png" style="width: 60%" >
                     </div>
                     <div>
                         <p>Voici le rendu final de la checkbox ajoutée.</p>
-                        <img src="../../www/ressources/img/Univers/IconSun.png" style="width: 7%">
-                        <img src="../../www/ressources/img/Univers/IconMoon.png" style="width: 7%">
+                        <img src="https://i.imageupload.app/90592c5361e051ca5710.png" style="width: 7%">
+                        <img src="https://i.imageupload.app/857620a9d9ab5241a14e.png" style="width: 7%">
                     </div>
                 </div>
                 <div class="borderBottom img-mag">
@@ -152,7 +152,7 @@
                         il s’agit d’un SearchInput dans le menu de navigation pour trier le menu.
                         Pour cela, dans mon composant SideBar, j’ajoute à l’endroit voulu le SearchInput avec, en option, le onChange.
                     </p>
-                    <img src="../../www/ressources/img/Univers/searchInputMenu.png" style="width: 100%">
+                    <img src="https://i.imageupload.app/fe30cf01d8ad09d02d06.png" style="width: 100%">
                     <p>
                         Ensuite, dans mon composant que j’ai créé au préalable.
                         Comme base, j’ai pris un input pour en faire un champ de recherche.
@@ -161,10 +161,10 @@
                         qui est la valeur que va écrire l’utilisateur, et grâce au onChange,
                         je détecte si le texte du input évolue et j’applique la fonction handleModeChange qui va gérer tout le processus de tri sur le menu.
                     </p>
-                    <img src="../../www/ressources/img/Univers/componentSearchInput.png" style="width: 50%">
+                    <img src="https://i.imageupload.app/9f0272f24e9588163322.png" style="width: 50%">
                     <p>Voici le résultat final de cet ajout :</p>
-                    <img src="../../www/ressources/img/Univers/lightSidebar.png" style="width: 30%">
-                    <img src="../../www/ressources/img/Univers/darkSidebar.png" style="width: 30%">
+                    <img src="https://i.imageupload.app/5a0cdca550da75f46b60.png" style="width: 30%">
+                    <img src="https://i.imageupload.app/e6b5ed098e6be8cf1e73.png" style="width: 30%">
                 </div>
                 <div class="borderBottom img-mag">
                     <h5>Theme</h5>
@@ -178,9 +178,9 @@
                         Pour cela j’ai crée des palettes de couleurs, celles-ci présente dans l’application Bazefield et
                         j’ai crée des variables pour géré les couleurs que prendrais certains éléments en fonction du mode.
                     </p>
-                    <img src="../../www/ressources/img/Univers/lightPalette.png" style="width: 16%">
-                    <img src="../../www/ressources/img/Univers/darkPalette.png" style="width: 16%">
-                    <img src="../../www/ressources/img/Univers/variablePalette.png" style="width: 50%">
+                    <img src="https://i.imageupload.app/a09e4800c424c1bbef2b.png" style="width: 16%">
+                    <img src="https://i.imageupload.app/ec921f0250b40a44d447.png" style="width: 16%">
+                    <img src="https://i.imageupload.app/993d6c8ae7ee461f4ae1.png" style="width: 50%">
                     <p>
                         Et grâce à ces variables, palette de couleurs et MaterialUI, je peux styliser les éléments facilement.
                         Par exemple, dans ce code, MuiCheckbox va me cibler toutes les checkbox de l’application.
@@ -188,20 +188,20 @@
                         Je définis donc ensuite la couleur de l’icône quand elle est dans un certain état ou thème et je définis son style particulier,
                         non défini par défaut par MUI (comme son padding, sa font-size, etc...), toujours dans l’optique de faire comme l’application Bazefield.
                     </p>
-                    <img src="../../www/ressources/img/Univers/codeCheckbox.png" style="width: 50%">
+                    <img src="https://i.imageupload.app/eeaaee2a2f422c4c2bd7.png" style="width: 50%">
                     <p>
                         Je réitère le changement de style sur tous les éléments pour que l’application soit la plus ressemblante à Bazefield.
                         Voici une comparaison de Bazefield et DIP-O dans les deux mode et un avant et un après de DIP-O
                     </p>
                     <h6>DIP-O avant le style : </h6>
-                    <img src="../../www/ressources/img/Univers/AncienDIPOlight.png" style="width: 48%;">
-                    <img src="../../www/ressources/img/Univers/AncienDIPOdark.png" style="width: 48%;">
+                    <img src="https://i.imageupload.app/2fb37953470f280f033f.png" style="width: 48%;">
+                    <img src="https://i.imageupload.app/870039d1b726bac3f71f.png" style="width: 48%;">
                     <h6>Exemple theme Bazefield : </h6>
-                    <img src="../../www/ressources/img/Univers/lightContentBZ.png" style="width: 48%;">
-                    <img src="../../www/ressources/img/Univers/darkContentBZ.png" style="width: 48%;">
+                    <img src="https://i.imageupload.app/633827cb9a5a42d325ca.png" style="width: 48%;">
+                    <img src="https://i.imageupload.app/c536bbea8437cf5894d1.png" style="width: 48%;">
                     <h6>DIP-O après style : </h6>
-                    <img src="../../www/ressources/img/Univers/nvDIPOlight.png" style="width: 48%;">
-                    <img src="../../www/ressources/img/Univers/nvDIPOdark.png" style="width: 48%;">
+                    <img src="https://i.imageupload.app/05957d6d937783218adf.png" style="width: 48%;">
+                    <img src="https://i.imageupload.app/79ba57618812cb1666d6.png" style="width: 48%;">
                 </div>
             </div>
         </div>
