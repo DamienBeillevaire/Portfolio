@@ -82,6 +82,12 @@
                 <p class="card-text">Angular</p>
             </div>
         </div>
+        <div class="card" style="width: 8rem;">
+            <img src="https://i.imageupload.app/d7cc86f4d0b087748ab6.png" alt="Kotlin">
+            <div class="card-body">
+                <p class="card-text">Kotlin</p>
+            </div>
+        </div>
     </div>
     <!-- ======= END DEV SKILLS ======= -->
     <!-- ======= START TOOLS / SOFT ======= -->
@@ -155,8 +161,45 @@
                 <p class="card-text">Canva</p>
             </div>
         </div>
+        <div class="card" style="width: 8rem;">
+            <img src="https://i.imageupload.app/4808e454595e04509018.png" class="card-img-top" alt="Android Studio">
+            <div class="card-body">
+                <p class="card-text">Android Studio</p>
+            </div>
+        </div>
     </div>
     <!-- ======= END TOOLS / SOFT ======= -->
+    <!-- ======= START bibliothèque UI ======= -->
+    <div class="section-title">
+        <h3>bibliothèque UI</h3>
+    </div>
+    <div class="flex-card">
+        <div class="card" style="width: 8rem;">
+            <img src="https://i.imageupload.app/479e0d3658f80605acc3.png" class="card-img-top" alt="JetPack compose">
+            <div class="card-body">
+                <p class="card-text">JetPack compose</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="https://i.imageupload.app/357220345a3fb6a5adbc.png" alt="Material 3">
+            <div class="card-body">
+                <p class="card-text">Material 3</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="https://i.imageupload.app/0e4c45d6ce21900d3f47.png" class="card-img-top" alt="JetPack compose">
+            <div class="card-body">
+                <p class="card-text">Boostrap</p>
+            </div>
+        </div>
+        <div class="card" style="width: 8rem;">
+            <img src="https://i.imageupload.app/384117a19f1aae0dedf7.png" alt="Material 3">
+            <div class="card-body">
+                <p class="card-text">Bulma</p>
+            </div>
+        </div>
+    </div>
+    <!-- ======= END bibliothèque UI ======= -->
     <!-- ======= START FrameWorks ======= -->
     <div class="section-title">
         <h3>FrameWorks</h3>
