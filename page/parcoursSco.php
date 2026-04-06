@@ -6,7 +6,7 @@
                     <div class="card">
                         <div class="card-body p-4">
                             <h5 class="card-title">BTS SIO La Colinière</h5>
-                            <p class="card-text">Some quick example text to build on</p>
+                            <p class="card-text">2024/2026</p>
                             <a href="https://coliniere.paysdelaloire.e-lyco.fr" class="btn btn-primary">Site école</a>
                             <a href="?route=ExamsB1" class="btn btn-primary">Epreuve E5</a>
                         </div>
@@ -16,7 +16,7 @@
                     <div class="card">
                         <div class="card-body p-4">
                             <h5 class="card-title">Bac SN François Arago</h5>
-                            <p class="card-text">Some quick example text to build on</p>
+                            <p class="card-text">2021/2024</p>
                             <a href="https://arago.paysdelaloire.e-lyco.fr" class="btn btn-primary">Site école</a>
                         </div>
                     </div>
@@ -25,7 +25,7 @@
                     <div class="card">
                         <div class="card-body p-4">
                             <h5 class="card-title">Brevet Condorcet</h5>
-                            <p class="card-text">Some quick example text to build on</p>
+                            <p class="card-text">2017/2021</p>
                             <a href="https://condorcet.loire-atlantique.e-lyco.fr" class="btn btn-primary">Site école</a>
                         </div>
                     </div>
