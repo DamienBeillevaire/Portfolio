@@ -63,5 +63,35 @@
                 </div>
             </div>
         </div>
+        <h1>Maquette</h1>
+        <div class="flex-card">
+            <div class="card" style="width: 40rem;">
+                <h5 class="card-header">Maquette Catalogue</h5>
+                <img src="https://i.imageupload.app/1fdd3e2822b80a92265f.png" style="width: 50%" class="img-fluid mx-auto d-block w-55" alt="Init base">
+            </div>
+            <div class="card" style="width: 40rem;">
+                <h5 class="card-header">Maquette Favoris</h5>
+                <img src="https://i.imageupload.app/e17b7ab2c9b45dd83151.png" style="width: 50%" class="img-fluid mx-auto d-block w-55" alt="Init base">
+            </div>
+            <div class="card" style="width: 40rem;">
+                <h5 class="card-header">Maquette Profil</h5>
+                <img src="https://i.imageupload.app/360dc3efd174b6afd30a.png" style="width: 50%" class="img-fluid mx-auto d-block w-55" alt="Init base">
+            </div>
+            <div class="card" style="width: 40rem;">
+                <h5 class="card-header">Maquette Détail</h5>
+                <img src="https://i.imageupload.app/5d29994c49ad783af320.png" style="width: 50%" class="img-fluid mx-auto d-block w-55" alt="Init base">
+            </div>
+        </div>
+        <h1>Réalisation</h1>
+        <div class="flex-card">
+            <div class="card" style="width: 35rem;">
+                <h5 class="card-header">Interface du catalogue</h5>
+                <img src="https://i.imageupload.app/049fc21c0f3bcf0fa8a2.jpeg" style="width: 50%" class="img-fluid mx-auto d-block w-55" alt="Init base">
+            </div>
+            <div class="card" style="width: 45rem;">
+                <h5 class="card-header">Test Récupération Info</h5>
+                <img src="https://i.imageupload.app/c2c6173b73cff73d9acc.png" style="width: 100%" class="img-fluid mx-auto d-block w-55" alt="Init base">
+            </div>
+        </div>
     </div>
 </div>
