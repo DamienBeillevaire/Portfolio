@@ -38,11 +38,12 @@
             </div>
             <div class="card " style="width: 30%;">
                 <div class="card-body">
-                    <img src="" class="card-img-top" alt="image">
+                    <img src="https://i.imageupload.app/bbf851754bf5ebb26d2f.png" style="width: 100%" class="card-img-top" alt="image">
                     <h5 class="card-title">Mangatek</h5>
                     <p class="card-text">Création d'une application Android</p>
                     <a href="?route=ProjetMangatek" class="btn btn-primary">En savoir plus</a>
                 </div>
+            </div>
         </div>
     </section>
 </div>

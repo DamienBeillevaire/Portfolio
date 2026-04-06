@@ -763,7 +763,7 @@
                         </div>
                     </div>
                     <div class="tl-item">
-                        <div class="tl-dot" style="background:#c8b8ff"></div>
+                        <div class="tl-dot" style="background:#76b900"></div>
                         <div class="tl-body">
                             <div class="tl-date">7 Jan. 2025</div>
                             <div class="tl-event">CES · RTX 50 annoncé + DLSS 4</div>
@@ -816,10 +816,6 @@
                     <div class="gpu-card nv">
                         <div class="card-top">
                             <span class="badge nv">NVIDIA</span>
-                            <div class="card-price">
-                                <div class="price-val">2 349 €</div>
-                                <div class="price-date">Janv. 2025</div>
-                            </div>
                         </div>
                         <div class="gpu-name">RTX 5090</div>
                         <div class="gpu-arch">Blackwell · GB202 · TSMC 4N · GDDR7</div>
@@ -846,10 +842,6 @@
                     <div class="gpu-card nv">
                         <div class="card-top">
                             <span class="badge nv">NVIDIA</span>
-                            <div class="card-price">
-                                <div class="price-val">1 179 €</div>
-                                <div class="price-date">Janv. 2025</div>
-                            </div>
                         </div>
                         <div class="gpu-name">RTX 5080</div>
                         <div class="gpu-arch">Blackwell · GB203 · GDDR7</div>
@@ -875,10 +867,6 @@
                     <div class="gpu-card nv">
                         <div class="card-top">
                             <span class="badge nv">NVIDIA</span>
-                            <div class="card-price">
-                                <div class="price-val">~900 €</div>
-                                <div class="price-date">Fév. 2025</div>
-                            </div>
                         </div>
                         <div class="gpu-name">RTX 5070 Ti</div>
                         <div class="gpu-arch">Blackwell · GDDR7 · 16 Go</div>
@@ -904,10 +892,6 @@
                     <div class="gpu-card amd featured">
                         <div class="card-top">
                             <span class="badge amd">AMD</span>
-                            <div class="card-price">
-                                <div class="price-val">~650 €</div>
-                                <div class="price-date">Mars 2025</div>
-                            </div>
                         </div>
                         <div class="gpu-name">RX 9070 XT</div>
                         <div class="gpu-arch">RDNA 4 · Navi 48 · 16 Go GDDR6</div>
@@ -933,10 +917,6 @@
                     <div class="gpu-card amd">
                         <div class="card-top">
                             <span class="badge amd">AMD</span>
-                            <div class="card-price">
-                                <div class="price-val">~550 €</div>
-                                <div class="price-date">Mars 2025</div>
-                            </div>
                         </div>
                         <div class="gpu-name">RX 9070</div>
                         <div class="gpu-arch">RDNA 4 · Navi 48 · 16 Go GDDR6</div>
@@ -962,10 +942,6 @@
                     <div class="gpu-card amd">
                         <div class="card-top">
                             <span class="badge amd">AMD</span>
-                            <div class="card-price">
-                                <div class="price-val">~350 €</div>
-                                <div class="price-date">Mid 2025</div>
-                            </div>
                         </div>
                         <div class="gpu-name">RX 9060 XT 16G</div>
                         <div class="gpu-arch">RDNA 4 · Entrée/milieu de gamme</div>
@@ -990,10 +966,6 @@
                     <div class="gpu-card intel">
                         <div class="card-top">
                             <span class="badge intel">Intel</span>
-                            <div class="card-price">
-                                <div class="price-val">249 $</div>
-                                <div class="price-date">Déc. 2024</div>
-                            </div>
                         </div>
                         <div class="gpu-name">Arc B580</div>
                         <div class="gpu-arch">Battlemage · Xe2-HPG · 12 Go GDDR6</div>
@@ -1019,10 +991,6 @@
                     <div class="gpu-card intel">
                         <div class="card-top">
                             <span class="badge intel">Intel</span>
-                            <div class="card-price">
-                                <div class="price-val">219 $</div>
-                                <div class="price-date">Jan. 2025</div>
-                            </div>
                         </div>
                         <div class="gpu-name">Arc B570</div>
                         <div class="gpu-arch">Battlemage · Xe2-HPG · 10 Go GDDR6</div>
