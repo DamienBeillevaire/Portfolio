@@ -234,5 +234,10 @@
                 </div>
             </div>
         </div>
+        <div class="card" style="width: 80rem;">
+            <img src="https://i.imageupload.app/35a63efb7a37ad0364a8.png" style="width: 100%" class="img-fluid mx-auto d-block w-55" alt="Init base">
+            <div class="card-body">
+            </div>
+        </div>
     </div>
 </div>
